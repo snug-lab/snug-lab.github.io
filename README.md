@@ -1,2 +1,3 @@
 # snug-lab
-SNUG website
+
+Website: https://snug-lab.github.io/
